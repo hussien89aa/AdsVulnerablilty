@@ -1,2 +1,0 @@
-Summary for jar/picasso-2.5.2.jar
-Decompiled with CFR 0_114
