@@ -1,7 +1,7 @@
 #Detecting dangerous permissions that used by Android Third-party libraries  
 ###Hussein Al Rubaye
 
- ##Abstract
+##Abstract
  Android dangerous permission which is most import security part for Android developers. Because it contain  access to user privacy information such as ( user location, phone, photo, SMS, Contact, Microphone and camera) . The developer have to keep this information secure from being used by anyone. Third party library which is part from Android apps could access to same permission that granted to the app. To prevent third -party library from using user apps permissions, We build tool that help Android developers to  detect the permissions that used in third-party  by searching in deep code. We tested 15 library and find the dangerous permission that used in this libraries. As results, We categorize this  permissions into two types symbol. First, We used “X” for the library that used dangerous permissions without any convincing reason. Second, We used  “O”   for the library that used dangerous permissions with convincing reason.
 
 
